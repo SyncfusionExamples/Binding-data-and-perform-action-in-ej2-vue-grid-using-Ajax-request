@@ -1,4 +1,4 @@
-# Bind EJ2 Vue Grid to Data via Ajax Requests
+# Binding-data-and-perform-action-in-ej2-vue-grid-using-Ajax-request
 
 ## Repository Description
 A demonstration of Syncfusion EJ2 Grid in Vue with Ajax-based data binding for CRUD operations.
